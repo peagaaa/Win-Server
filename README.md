@@ -355,4 +355,4 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
 Links de referência
 
-[ServerSpace](https://serverspace.com.br/support/help/windows-server-versions-editions-licensing/) | [Wikipedia](https://pt.wikipedia.org/wiki/Windows_Server) | [Pense em TI](https://penseemti.com.br/artigos/a-historia-do-windows-server/)
+[ServerSpace](https://serverspace.com.br/support/help/windows-server-versions-editions-licensing/) | [Wikipedia](https://pt.wikipedia.org/wiki/Windows_Server) | [Pense em TI](https://penseemti.com.br/artigos/a-historia-do-windows-server/) | [Tio Inaldo](https://tioinaldo.com/saiba-tudo-sobre-windows-microsoft-server/)
