@@ -102,18 +102,18 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
     Desenvolvido para computação de alto desempenho e resolução de problemas complexos, como:
 
-    Decodificação de genomas
-    Animação de filmes
-    Análise de riscos financeiros
-    Simplificação de simulação de testes de colisão
-    Modelagem de soluções de meteorologia global
-    Dinâmica de fluido computacional (CFD) e outros problemas altamente complexos.
+        Decodificação de genomas
+        Animação de filmes
+        Análise de riscos financeiros
+        Simplificação de simulação de testes de colisão
+        Modelagem de soluções de meteorologia global
+        Dinâmica de fluido computacional (CFD) e outros problemas altamente complexos.
 
     Funcionalidades:
 
-    * Integração com o Windows Azure na qual pode-se usar recursos em execução de um Datacenter do Windows, para ampliar a capacidade de seu cluster do Windows HPC local.
+        Integração com o Windows Azure na qual pode-se usar recursos em execução de um Datacenter do Windows, para ampliar a capacidade de seu cluster do Windows HPC local.
     
-    * Com o Windows HPC pode-se usar computadores inativos com Windows 7 para estender a capacidade de computação dos clusters existentes sem precisar comprar hardware adicional.
+        Com o Windows HPC pode-se usar computadores inativos com Windows 7 para estender a capacidade de computação dos clusters existentes sem precisar comprar hardware adicional.
 
 </details>
 
@@ -126,29 +126,27 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
     Funcionalidades:
 
-     Virtualização Hyper-V 
-     Server Core (Configuração e manutenção é feita inteiramente através de janelas de interface de linha de comando ou conectando-se à máquina remotamente)
-     BitLocker
-     IPv6 nativo
-     Rede sem fio nativa
-     Recuperação baseadas em imagem
-     ASLR (randomização de layout de espaço de endereço)
-     Firewall do Windows melhorado com configuração padrão segura
-     Clustering de failover
-     Windows System Resource Manager (gerenciamento de recursos e pode ser usado para controlar a quantidade de recursos que um processo ou um usuário pode usar com base nas prioridades de negócios)
-     Melhorias no núcleo do SO
-     Melhorias no Active Directory
-     Melhorias relacionadas a políticas
-     Aperfeiçoamentos de protocolo e criptografia
+        Virtualização Hyper-V 
+        Server Core (Configuração e manutenção é feita inteiramente através de janelas de interface de linha de comando ou conectando-se à máquina remotamente)
+        BitLocker
+        IPv6 nativo
+        Rede sem fio nativa
+        Recuperação baseadas em imagem
+        ASLR (randomização de layout de espaço de endereço)
+        Firewall do Windows melhorado com configuração padrão segura
+        Clustering de failover
+        Windows System Resource Manager (gerenciamento de recursos e pode ser usado para controlar a quantidade de recursos que um processo ou um usuário pode usar com base nas prioridades de negócios).
+        Melhorias no núcleo do SO
+        Melhorias no Active Directory
+        Melhorias relacionadas a políticas
+        Aperfeiçoamentos de protocolo e criptografia
 
     Edições:
 
-    Standard
-    Enterprise 
-    Datacenter 
-    Web Server 
-
-     
+        Standard
+        Enterprise 
+        Datacenter 
+        Web Server 
 
 </details>
 
@@ -164,70 +162,60 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
     Versões: 
     
-    Windows Server 2012 R2
+        Windows Server 2012 R2
 
     Funcionalidades:
 
-    * Opções de instalação "Server Core" e "Server com uma GUI" 
-    * Nova versão do Gerenciador de Servidor
-    * Nova versão do Gerenciador de tarefas
-    * nova versão do Hyper-V
-    * servidor web IIS 8.0 da própria Microsoft
+        Opções de instalação "Server Core" e "Server com uma GUI" 
+        Nova versão do Gerenciador de Servidor
+        Nova versão do Gerenciador de tarefas
+        Nova versão do Hyper-V
+        Servidor web IIS 8.0 da própria Microsoft
 
     Edições:
 
-    Datacenter
-Edição destinado a ambientes de nuvem privada ou híbrida. Está é a versão mais completa da edição 2012.
-
-Standard
-Possui funcionalidade completa, assim como a edição Datacenter porém, é destinados a ambientes não-virtualizados.
-
-Essentials
-Destinado a pequenos negócios, esta edição está limitada a apenas 25 contas de usuários.
-
-Foundation
-Para uso geral, está disponível apenas na versão OEM. Limitado com 15 contas de usuários.
-
+        Datacenter
+        Standard
+        Essentials
+        Foundation
 
 </details>
 
 <details>
     <summary>Windows Server 2016</summary>
 
-    Versões:
-
-    1806
-
     Funcionalidades:
 
-    Contêineres Windows
-    Nano Server
-    Interface do Windows 10
-    “sistema operacional pronto para a nuvem”, e apresenta tecnologias para facilitar a transição para a nuvem do Windows Azure
-    Sistema de ficheiros distribuídos (DFS - Distributed File System):
-    Serviços de Terminal (Terminal Services): 
-    Sistema de logs para anormalidades 
+        Contêineres Windows
+        Nano Server
+        Interface do Windows 10
+        Introdução a recursos para computação em nuvem
+        Sistema de ficheiros distribuídos (DFS - Distributed File System)
+        Serviços de Terminal (Terminal Services)
+        Sistema de logs para anormalidades 
 
     Edições:
 
-    Nano Server
-    Stardard
-    Datacenter
-    Essentials
+        Nano Server
+        Stardard
+        Datacenter
+        Essentials
 
 </details>
 
 <details>
     <summary>Windows Server 2019</summary>
 
-    sistema operacional pronto para a nuvem”, e apresenta tecnologias para facilitar a transição para a nuvem do Windows Azure.
+    Funcionalidades:
 
-    Windows Admin Center: Uma nova maneira de administrar remotamente a infraestrutura do servidor , melhorar a infraestrutura hiperconvergente e o suporte profundo para o subsistema Linux.   
+        Melhorias nas tecnologias para computação em nuvem (Windows Azure)
 
-    Melhorias no desempenho da rede para cargas de trabalho virtuais
-    Contêineres do Linux no Windows
-    Infraestrutura Hiper-Convergente (IHC)
-    Suporte do Kubernetes
+        Windows Admin Center: Uma nova maneira de administrar remotamente a infraestrutura do servidor, melhorar a infraestrutura hiperconvergente e o suporte profundo para o subsistema Linux.   
+
+        Melhorias no desempenho da rede para cargas de trabalho virtuais
+        Contêineres do Linux no Windows
+        Infraestrutura Hiper-Convergente (IHC)
+        Suporte do Kubernetes
 
 </details>
 
@@ -236,35 +224,34 @@ Para uso geral, está disponível apenas na versão OEM. Limitado com 15 contas 
 
     Funcionalidades:
 
-    Segurança
-TPM 2.0[8]
-Servidor de núcleo seguro; Credential Guard e Hypervisor-protected Code Integrity (HVCI)[9]
-Inicialização segura do UEFI[10]
-Proteção de inicialização DMA. [11]
-DNS sobre HTTPS[10]
-Criptografia AES-256 no SMB[10]
-Armazenamento
-Serviço de Migração de Armazenamento (SMS)
-Compressão do Server Message Block (SMB)
-Segurança e desempenho do armazenamento
-Nuvem
-Benefícios do Azure hybrid
+    Mais recursos de segurança:
+
+        TPM 2.0[8]
+        Servidor de núcleo seguro
+        Credential Guard 
+        Hypervisor-protected Code Integrity (HVCI)
+        Inicialização segura do UEFI
+        Proteção de inicialização DMA
+        DNS sobre HTTPS
+        Criptografia AES-256 no SMB
+
+    Mais recurso de Armazenamento:
+
+        Serviço de Migração de Armazenamento (SMS)
+        Compressão do Server Message Block (SMB)
+        Segurança e desempenho do armazenamento
+
+    Benefícios do Azure hybrid
 
     Edições:
 
-    Essentials
-Disponível somente por meio de parceiros OEM da Microsoft.[12]
+        Essentials: Destinado a pequenas empresas, máximo de 25 usuários e 50 dispositivos.
 
-Destinado a pequenas empresas
-Suporta um máximo de 25 usuários e 50 dispositivos
-Não são necessárias licenças de acesso de cliente (CALs)[13]
-Standard
-Destinado a ambientes VCC físicos ou fracos
-Apenas duas máquinas virtuais e um host Hyper-V são considerados utilizáveis[5][14][15]
-Datacenter
-Destinado a data centers altamente virtualizados e ambientes de nuvem
-Azure Datacenter
-Projetado para a plataforma Microsoft Azure[5]
+        Standard: Destinado a ambientes VCC físicos ou fracos, Apenas duas máquinas virtuais e um host Hyper-V são considerados utilizáveis.
+
+        Datacenter: Destinado a data centers altamente virtualizados e ambientes de nuvem.
+
+        Azure Datacenter: Projetado para a plataforma Microsoft Azure.
 
 </details>
 
