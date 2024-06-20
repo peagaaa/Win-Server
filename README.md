@@ -45,48 +45,75 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
 </br>
 
-    Versões:
-
-    3.1 Advanced Server
-    3.5 Server 
-    3.51 Server 
-    4.0 Server   
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/WinNT.png" alt="Imagem Windows NT">
+</p>
 
     Edições:
 
-    Advanced Server e Workstation	
-    Workstation e Server	
-    Workstation e Server	
-    Workstation, Server, Server Enterprise Edition, Terminal Server, Embedded	
+    3.1:
+        Versões:
+            Advanced Server
+            Workstation
+
+    3.5 
+        Versões:
+            Workstation
+            Server
+
+    3.51 
+        Versões:
+            Workstation
+            Server
+
+    4.0 
+        Versões:
+            Workstation 
+            Server
+            Server Enterprise Edition
+            Terminal Server
+            Embedded
 
     Funcionalidades:
-
-
 
 </details>
 
 <details>
     <summary>Windows 2000 Server</summary>
 
+</br>
+
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2000.png" alt="Imagem Windows 2000">
+</p>
+
     Funcionalidades: 
 
-    * Active Directory
-    * DNS Server
-    * DHCP Server
-    * Group Policy
-    * MMC
-    * Desfragmentação de disco
-    * Proteção de arquivos críticos do sistema
+        Active Directory
+        DNS Server
+        DHCP Server
+        Group Policy
+        MMC
+        Desfragmentação de disco
+        Proteção de arquivos críticos do sistema
 
     Edições:
 
-    Professional, Server, Advanced Server e Datacenter Server.
-
+        Professional
+        Server
+        Advanced Server
+        Datacenter Server
 
 </details>
 
 <details>
     <summary>Windows Server 2003</summary>
+
+</br>
+
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2003.png" alt="Imagem Windows 2003">
+</p>
 
     Windows Server 2003 R2
 
@@ -120,11 +147,17 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 </details>
 
 <details>
-    <summary>Windows Server 2008</summary>
+    <summary>Windows Server 2008</summary>,
+
+</br>
+
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2008.png" alt="Imagem Windows 2008">
+</p>
 
     Versões:
 
-    Windows Server 2008 R2
+        Windows Server 2008 R2
 
     Funcionalidades:
 
@@ -162,6 +195,12 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <details>
     <summary>Windows Server 2012</summary>
 
+</br>
+
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2012.png" alt="Imagem Windows 2012">
+</p>
+
     Versões: 
     
         Windows Server 2012 R2
@@ -186,6 +225,12 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <details>
     <summary>Windows Server 2016</summary>
 
+</br>
+
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2016.png" alt="Imagem Windows 2016">
+</p>
+
     Funcionalidades:
 
         Contêineres Windows
@@ -208,6 +253,12 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <details>
     <summary>Windows Server 2019</summary>
 
+</br>
+
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2019.jpg" alt="Imagem Windows 2019">
+</p>
+
     Funcionalidades:
 
         Melhorias nas tecnologias para computação em nuvem (Windows Azure)
@@ -223,6 +274,12 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
 <details>
     <summary>Windows Server 2022</summary>
+
+</br>
+
+<p align="center">
+  <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2022.png" alt="Imagem Windows 2022">
+</p>
 
     Funcionalidades:
 
@@ -266,8 +323,3 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 Links de referência
 
 [ServerSpace](https://serverspace.com.br/support/help/windows-server-versions-editions-licensing/) | [Wikipedia](https://pt.wikipedia.org/wiki/Windows_Server) | [Pense em TI](https://penseemti.com.br/artigos/a-historia-do-windows-server/)
-
-
-<p align="center">
-  <img src="https://github.com/peagaaa/Iptables-firewall/blob/main/assets/topologia-firewall.jpg" alt="Imagem topologia firewall">
-</p>
