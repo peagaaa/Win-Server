@@ -43,6 +43,8 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <details>
     <summary>Windows NT Server (Data de lançamento: 27/07/1993)</summary>
 
+</br>
+
     Versões:
 
     3.1 Advanced Server
@@ -264,4 +266,3 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 Links de referência
 
 [ServerSpace](https://serverspace.com.br/support/help/windows-server-versions-editions-licensing/) | [Wikipedia](https://pt.wikipedia.org/wiki/Windows_Server) | [Pense em TI](https://penseemti.com.br/artigos/a-historia-do-windows-server/)
-
