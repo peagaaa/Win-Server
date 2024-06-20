@@ -74,8 +74,6 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
             Terminal Server
             Embedded
 
-    Funcionalidades:
-
 </details>
 
 <details>
@@ -119,6 +117,23 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 </p>
 
     Windows Server 2003 R2 (Data de lançamento: 06/12/2005)
+
+    Funcionalidades:
+
+        Nova versão do servidor IIS
+        Internet Explorer 6
+        Prevenção de Execução de Dados (DEP)
+        Windows Media Player versão 10
+        Assistente de Configuração de Segurança
+        Adição de recursos de rede
+
+    Edições:
+
+        Datacenter Edition
+        Enterprise Edition
+        Standard Edition
+        Web Edition
+
 
 </details>
 
