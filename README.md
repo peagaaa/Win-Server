@@ -41,7 +41,7 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 ### Versões:
 
 <details>
-    <summary>Windows NT Server (Data de lançamento: 27/07/1993)</summary>
+    <summary>Windows NT Server</summary>
 
 </br>
 
@@ -51,22 +51,22 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
     Edições:
 
-    3.1:
+    3.1 (Data de lançamento: 27/07/1993)
         Versões:
             Advanced Server
             Workstation
 
-    3.5 
+    3.5 (Data de lançamento: 21/09/1994)
         Versões:
             Workstation
             Server
 
-    3.51 
+    3.51 (Data de lançamento: 30/05/1995)
         Versões:
             Workstation
             Server
 
-    4.0 
+    4.0 (Data de lançamento: 29/07/1996)
         Versões:
             Workstation 
             Server
@@ -81,6 +81,7 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <details>
     <summary>Windows 2000 Server</summary>
 
+    Data de lançamento: 17/02/2000
 </br>
 
 <p align="center">
@@ -109,18 +110,22 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <details>
     <summary>Windows Server 2003</summary>
 
+    Data de lançamento: 24/04/2003
+
 </br>
 
 <p align="center">
   <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2003.png" alt="Imagem Windows 2003">
 </p>
 
-    Windows Server 2003 R2
+    Windows Server 2003 R2 (Data de lançamento: 06/12/2005)
 
 </details>
 
 <details>
     <summary>Home Server</summary>
+
+    Data de lançamento: 07/11/2007
 
     Versão do Windows Server para servidores domésticos
 
@@ -128,6 +133,8 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
 <details>
     <summary>HPC Server 2008</summary>
+
+    Data de lançamento: 22/09/2008
 
     Desenvolvido para computação de alto desempenho e resolução de problemas complexos, como:
 
@@ -147,7 +154,9 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 </details>
 
 <details>
-    <summary>Windows Server 2008</summary>,
+    <summary>Windows Server 2008</summary>
+
+    Data de lançamento: 27/02/2008
 
 </br>
 
@@ -157,7 +166,7 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 
     Versões:
 
-        Windows Server 2008 R2
+        Windows Server 2008 R2 (Data de lançamento: 22/10/2009)
 
     Funcionalidades:
 
@@ -188,6 +197,8 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <details>
     <summary>Home Server 2011</summary>
 
+    Data de lançamento: 06/04/2011
+
      Sistema operacional para servidores domésticos desenvolvido pela Microsoft para suceder o Windows Home Server.
 
 </details>
@@ -201,12 +212,15 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
   <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2012.png" alt="Imagem Windows 2012">
 </p>
 
+    Data de lançamento: 04/09/2012
+
     Versões: 
     
-        Windows Server 2012 R2
+        Windows Server 2012 R2 (Data de lançamento: 18/10/2013)
 
     Funcionalidades:
 
+        Interface do Windows 8
         Opções de instalação "Server Core" e "Server com uma GUI" 
         Nova versão do Gerenciador de Servidor
         Nova versão do Gerenciador de tarefas
@@ -230,6 +244,8 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <p align="center">
   <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2016.png" alt="Imagem Windows 2016">
 </p>
+
+    Data de lançamento: 12/10/2016
 
     Funcionalidades:
 
@@ -258,6 +274,8 @@ Um servidor pode ser definido como um software e/ou computador que fornece servi
 <p align="center">
   <img src="https://github.com/peagaaa/Win-Server/blob/main/Assets/Win2019.jpg" alt="Imagem Windows 2019">
 </p>
+
+    Data de lançamento: 
 
     Funcionalidades:
 
